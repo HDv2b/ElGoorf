@@ -12,7 +12,7 @@ Permanent: Any truely innovative project where I feel like I'm making a positive
 
 😇 Trusted to work remotely for employers and clients since 2009.
 
-⌚ Available at very-short notice.
+⌚ Immediately available.
 
 ### Currently working on 
 [![prayin.io](https://prayin.io/images/prayin-io.png)](https://prayin.io)
