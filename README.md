@@ -10,7 +10,7 @@ Contract work: Happy to work with any short term goals or problem solving. Rates
 
 Permanent: Any truely innovative project where I feel like I'm making a positive impact on the world (sustainable tourism, green energy, life-changing robotics or AI, political activism or journalism, etc).
 
-😇 Trusted to work remotely for employers and clients since 2013.
+😇 Trusted to work remotely for employers and clients since 2009.
 
 ⌚ Available at very-short notice.
 
