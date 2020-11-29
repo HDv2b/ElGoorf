@@ -8,10 +8,7 @@
 
 Supply chain management for pharmaceuticals in Africa.
 
-
-
 ### Side project 
-|---|---
 | [![prayin.io](https://prayin.io/images/favicon.ico)](https://prayin.io) | Co-Founder & CTO at [Prayin.io](https://prayin.io)
 |---|---
 
