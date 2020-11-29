@@ -3,14 +3,16 @@
 🚪 Occupied (📵 please don't contact me regarding employment nor freelance opportunities).
 
 ### Main activity
-| [![field.inc](https://field.inc/favicon-fi.ico)](https://field.inc) | Freelance senior developer at [Field Inc](https://field.inc).
-|---|---
+[![field.inc](https://field.inc/favicon-fi.ico)](https://field.inc)
+
+**Freelance senior developer at [Field Inc](https://field.inc)**
 
 Supply chain management for pharmaceuticals in Africa.
 
 ### Side project 
-| [![prayin.io](https://prayin.io/images/favicon.ico)](https://prayin.io) | Co-Founder & CTO at [Prayin.io](https://prayin.io)
-|---|---
+[![prayin.io](https://prayin.io/images/favicon.ico)](https://prayin.io)
+
+**Co-Founder & CTO at [Prayin.io](https://prayin.io)**
 
 A real-time reservations app for places of worship during times of social distancing and reduced capacity.
 
