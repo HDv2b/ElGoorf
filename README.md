@@ -5,7 +5,7 @@
 ### Main activity
 [![field.inc](https://field.inc/favicon-fi.ico)](https://field.inc)
 
-**Freelance senior developer at [Field Inc](https://field.inc)**
+**Freelance Javascript Engineer at [Field Inc](https://field.inc)**
 
 Supply chain management for pharmaceuticals in Africa.
 
