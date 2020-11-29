@@ -1,15 +1,6 @@
-### About me 👋
-Freelance Senior Web-Developer.
-
-**React, PHP, JQuery** professionally since 2009. Hobbiest programmer since my early teens.
-
-British ☔󠁢󠁥󠁮󠁧󠁿 living in Switzerland ⛷️
-
-😇 Trusted to work remotely for employers and clients since 2009.
-
 ### Current situation
 
-🚪 Occupied
+🚪 Occupied (📵 please don't contact me regarding employment nor freelance opportunities).
 
 ### Main activity
 
