@@ -1,6 +1,6 @@
 ### Current situation
 
-🚪 Occupied (📵 please don't contact me regarding employment nor freelance opportunities).
+Interested in part-time or freelance work.
 
 ### Main activity
 [![field.inc](https://field.inc/favicon-fi.ico)](https://field.inc)
