@@ -1,32 +1,20 @@
-### Current situation
+# Hussein Duvigneau
+**Professional Problem-Solver**
 
-Interested in part-time or freelance work.
+Full-Stack Web Developer with skills primarily around React (especially Next.JS) and Node. Also history with PHP and Django.
 
-### Main activity
-[![field.inc](https://field.inc/favicon-fi.ico)](https://field.inc)
+## :battery: Looking for opportunities!
+Just returned from a 6-month break and easing myself back into the new year.
 
-**Engineer at [Field Inc](https://field.inc)**
+**:memo: Available for**: Freelance/temp full-time, or permanent part-time.
 
-Supply chain management for pharmaceuticals in Africa.
+**:earth_africa: Location**:
+* On-site around Zurich (Type-B resident).
+* Remote/hybrid London, (eg 1 week per month on-site. British citizen w/ local 2nd home).
 
-### Side project 
-[![prayin.io](https://prayin.io/images/favicon.ico)](https://prayin.io)
+For more info, please see my [LinkedIn](https://www.linkedin.com/in/husseinduvigneau)
 
-**Co-Founder & CTO at [Prayin.io](https://prayin.io)**
-
-A real-time reservations app for places of worship during times of social distancing and reduced capacity.
-
-<!--
-**ElGoorf/ElGoorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Where else to find me:
+* [LinkedIn](https://www.linkedin.com/in/husseinduvigneau)
+* [Stack Overflow](https://stackoverflow.com/users/7310247/hussein-duvigneau)
+* [Personal Blog](https://blog.notmybase.com)
