@@ -1,18 +1,7 @@
 # Hussein Duvigneau
-**Professional Problem-Solver**
+Front-end Developer at [Nexxiot](https://nexxiot.com/), in Zurich 🇨🇭
 
-Full-Stack Web Developer with skills primarily around React (especially Next.JS) and Node. Also history with PHP and Django.
-
-## :battery: Looking for opportunities!
-Just returned from a 6-month break and easing myself back into the new year.
-
-**:memo: Available for**: Freelance/temp full-time, or permanent part-time.
-
-**:earth_africa: Location**:
-* On-site around Zurich (Type-B resident).
-* Remote/hybrid London, (eg 1 week per month on-site. British citizen w/ local 2nd home).
-
-For more info, please see my [LinkedIn](https://www.linkedin.com/in/husseinduvigneau)
+In my repos you will mostly find attempts at problem solving algorithms, for example collections of my Advent of Code solutions, or algorithms to solve common puzzles found in newspapers or optimising strategies for board games.
 
 ## Where else to find me:
 * [LinkedIn](https://www.linkedin.com/in/husseinduvigneau)
